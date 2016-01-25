@@ -1,0 +1,3 @@
+#!/bin/bash
+variable="Hello, my shell is $SHELL"
+echo $variable
