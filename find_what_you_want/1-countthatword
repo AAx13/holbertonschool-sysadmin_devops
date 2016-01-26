@@ -1,2 +1,2 @@
-#1/bin/bash
-sed -n '2p' 
+#!/bin/bash
+grep -c bin /etc/passwd
