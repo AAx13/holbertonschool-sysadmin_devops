@@ -1,0 +1,6 @@
+Using UNIX based terminal, I would need to generate an ssh key in the suggested bit size.
+
+      - First I would type "ssh-keygen -t rsa -b 4096(enter required or suggested bit size here. For this example the key size will be 4096 bits)"
+      - After executing this command, I will be prompted to selected and confirm the password for the key, given the key finger print, and asked as to what location I should store the key.
+      - After selecting a password and selecting the location of the key, I would keep the private key in a safe place, (more than likely a computer you will be logging into the server from).
+      - The private key would be copied on all the computers I will be logging into.
