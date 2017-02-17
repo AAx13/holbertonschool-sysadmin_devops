@@ -39,7 +39,7 @@ Display the first 10 lines of `/etc/passwd`.
 * [5-firstlines](../0x02-shell_redirections/5-firstlines)
 
 ***
-Write a script that displays the third line of the file `iacta`.
+Script that displays the third line of the file `iacta`.
 
 * The file `iacta` will be in the working directory
 * You're not allowed to use `sed`.
@@ -48,16 +48,17 @@ Write a script that displays the third line of the file `iacta`.
 Note: The output will differ, depending on the content of the file `iacta`.
 
 ***
-
-* [](../0x02-shell_redirections/)
-
-***
-
-* [](../0x02-shell_redirections/)
+Script that writes into the file `ls_cwd_content` the result of the command `ls -la`. If the file `ls_cwd_content` already exists, it should be overwritten. If the file `ls_cwd_content` does not exist, create it.
+* [8-cwd_state](../0x02-shell_redirections/8-cwd_state)
 
 ***
+Shell script that creates a file named exactly `\*\\'"Holberton School"\'\\*$\?\*\*\*\*\*:)` containing the text `Holberton School` ending by a new line.
+* [7-file](../0x02-shell_redirections/7-file)
 
-* [](../0x02-shell_redirections/)
+***
+Script that duplicates the last line of the file `iacta`.
+* The file `iacta` will be in the working directory.
+* [9-duplicate_last_line](../0x02-shell_redirections/9-duplicate_last_line).
 
 ***
 
