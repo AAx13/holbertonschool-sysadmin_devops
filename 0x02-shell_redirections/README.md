@@ -17,4 +17,4 @@
 ```
 Script that prints “Hello, World”, followed by a new line to the standard output.
 ```
-  [0-hello_world](../holbertonschool-sysadmin_devops/blob/master/0x02-shell_redirections/0-hello_world)
+  [0-hello_world](../0x02-shell_redirections/0-hello_world)
