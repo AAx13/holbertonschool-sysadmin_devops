@@ -39,10 +39,10 @@ Display the first 10 lines of /etc/passwd.
 * [5-firstlines](../0x02-shell_redirections/5-firstlines)
 
 ***
-Write a script that displays the third line of the file iacta.
+Write a script that displays the third line of the file `iacta`.
 
-* The file iacta will be in the working directory
-* You're not allowed to use sed.
+* The file `iacta` will be in the working directory
+* You're not allowed to use `sed`.
 * [6-third_line](../0x02-shell_redirections/6-third_line)
 
 ***
