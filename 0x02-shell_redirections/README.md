@@ -117,6 +117,6 @@ Script that reverses its input.
 * [21-reverse](../0x02-shell_redirections/21-reverse)
 
 ***
-Write a script that displays all users and their home directories, sorted by users.
+Script that displays all users and their home directories, sorted by users.
 * Based on the the `/etc/passwd` file.
 * [22-users_and_homes](../0x02-shell_redirections/22-users_and_homes)
