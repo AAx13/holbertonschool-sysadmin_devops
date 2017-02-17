@@ -14,7 +14,7 @@
 * You are not allowed to use sed or awk
 
 ## Scripts
-```bash
-# Script that prints “Hello, World”, followed by a new line to the standard output.
- [0-hello_world](../blob/master/0x02-shell_redirections/0-hello_world)
+```
+Script that prints “Hello, World”, followed by a new line to the standard output.
+[0-hello_world](../blob/master/0x02-shell_redirections/0-hello_world)
 ```
