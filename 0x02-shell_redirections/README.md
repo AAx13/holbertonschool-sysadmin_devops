@@ -43,7 +43,8 @@ Write a script that displays the third line of the file `iacta`.
 
 * The file `iacta` will be in the working directory
 * You're not allowed to use `sed`.
-* [6-third_line](../0x02-shell_redirections/6-third_line)
+* [6-third_line](../0x02-shell_redirections/6-third_line).
+
 Note: The output will differ, depending on the content of the file `iacta`.
 
 ***
