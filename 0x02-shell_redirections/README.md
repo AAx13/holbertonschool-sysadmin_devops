@@ -61,12 +61,14 @@ Script that duplicates the last line of the file `iacta`.
 * [9-duplicate_last_line](../0x02-shell_redirections/9-duplicate_last_line).
 
 ***
-
-* [](../0x02-shell_redirections/)
+Script that deletes all the regular files (not the directories) with a `.js` extension that are present in the current directory and all its subfolders.
+* [10-no_more_js](../0x02-shell_redirections/10-no_more_js)
 
 ***
-
-* [](../0x02-shell_redirections/)
+Write a script that counts the number of directories and sub-directories in the current directory.
+* The current and parent directories should not be taken into account.
+* Hidden directories should be counted.
+* [11-directories](../0x02-shell_redirections/11-directories)
 
 ***
 
