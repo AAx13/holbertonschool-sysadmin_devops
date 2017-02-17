@@ -65,57 +65,60 @@ Script that deletes all the regular files (not the directories) with a `.js` ext
 * [10-no_more_js](../0x02-shell_redirections/10-no_more_js)
 
 ***
-Write a script that counts the number of directories and sub-directories in the current directory.
+Script that counts the number of directories and sub-directories in the current directory.
 * The current and parent directories should not be taken into account.
 * Hidden directories should be counted.
 * [11-directories](../0x02-shell_redirections/11-directories)
 
 ***
-
-* [](../0x02-shell_redirections/)
-
-***
-
-* [](../0x02-shell_redirections/)
+Script that displays the 10 newest files in the current directory.
+* One file per line.
+* Sorted from the newest to the oldest.
+* [12-newest_files](../0x02-shell_redirections/12-newest_files)
 
 ***
-
-* [](../0x02-shell_redirections/)
-
-***
-
-* [](../0x02-shell_redirections/)
-
-***
-
-* [](../0x02-shell_redirections/)
+Script that takes a list of words as input and prints only words that appear exactly once.
+* Input format: One line, one word.
+* Output format: One line, one word.
+* Words should be sorted.
+* [13-unique](../0x02-shell_redirections/13-unique)
 
 ***
-
-* [](../0x02-shell_redirections/)
-
-***
-
-* [](../0x02-shell_redirections/)
+Display lines containing the pattern "root" from the file `/etc/passwd`.
+* [14-findthatword](../0x02-shell_redirections/14-findthatword)
 
 ***
-
-* [](../0x02-shell_redirections/)
-
-***
-
-* [](../0x02-shell_redirections/)
+Display the number of lines that contain the pattern "bin" in the file `/etc/passwd`.
+* [15-countthatword](../0x02-shell_redirections/15-countthatword)
 
 ***
-
-* [](../0x02-shell_redirections/)
-
-***
-
-* [](../0x02-shell_redirections/)
+Display lines containing the pattern "root" and 3 lines after them in the file `/etc/passwd`.
+* [16-whatsnext](../0x02-shell_redirections/16-whatsnext)
 
 ***
+Display all the lines in the file `/etc/passwd` that do not contain the pattern "bin".
+* [17-hidethisword](../0x02-shell_redirections/17-hidethisword)
 
-* [](../0x02-shell_redirections/)
+***
+Display all lines of the file `/etc/ssh/sshd_config` starting with a letter.
+* Include capital letters as well.
+* [18-letteronly](../0x02-shell_redirections/18-letteronly)
+
+***
+Replace all characters `A` and `c` from input to `Z` and `e` respectively.
+* [19-AZ](../0x02-shell_redirections/19-AZ)
+
+***
+Script that removes all letters `c` and `C` from input.
+* [20-hiago](../0x02-shell_redirections/20-hiago)
+
+***
+Script that reverses its input.
+* [21-reverse](../0x02-shell_redirections/21-reverse)
+
+***
+Write a script that displays all users and their home directories, sorted by users.
+* Based on the the `/etc/passwd` file.
+* [22-users_and_homes](../0x02-shell_redirections/22-users_and_homes)
 
 ***
