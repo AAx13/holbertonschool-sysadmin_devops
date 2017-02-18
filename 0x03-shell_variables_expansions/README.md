@@ -28,8 +28,8 @@ Add `/action` to the `PATH`. `/action` should be the last directory the shell lo
 * [2-path](../0x03-shell_variables_expansions/2-path)
 
 ***
-
-* [](../0x03-shell_variables_expansions/)
+Create a script that counts the number of directories in the `PATH`.
+* [3-paths](../0x03-shell_variables_expansions/3-paths)
 
 ***
 

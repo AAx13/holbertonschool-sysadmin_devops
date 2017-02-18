@@ -1,0 +1,2 @@
+#!/bin/bash
+echo $PATH | cut -f1- -d : | tr -ts : ' ' | wc -w
