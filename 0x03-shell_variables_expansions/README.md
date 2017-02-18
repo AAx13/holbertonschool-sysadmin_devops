@@ -56,19 +56,21 @@ Script that prints the result of the addition of 128 with the value stored in th
 * [8-true_knowledge](../0x03-shell_variables_expansions/8-true_knowledge)
 
 ***
-Write a script that prints the result of `POWER` divided by `DIVIDE`, followed by a new line.
+Script that prints the result of `POWER` divided by `DIVIDE`, followed by a new line.
 * `POWER` and `DIVIDE` are environment variables.
 * [9-divide_and_rule](../0x03-shell_variables_expansions/9-divide_and_rule)
 
 ***
-Write a script that displays the result of `BREATH` to the power `LOVE`.
+Script that displays the result of `BREATH` to the power `LOVE`.
 * `BREATH` and `LOVE` are environment variables.
 * The script should display the result, followed by a new line.
 * [10-love_exponent_breath](../0x03-shell_variables_expansions/10-love_exponent_breath)
 
 ***
-
-* [](../0x03-shell_variables_expansions/)
+Script that converts a number from base 2 to base 10.
+* The number in base 2 is stored in the environment variable `BINARY`.
+* The script should display the number in base 10, followed by a new line.
+* [11-binary_to_decimal](../0x03-shell_variables_expansions/11-binary_to_decimal)
 
 ***
 
