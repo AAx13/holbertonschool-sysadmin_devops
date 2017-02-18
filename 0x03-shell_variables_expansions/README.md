@@ -87,5 +87,7 @@ Script that prints a number with two decimal places.
 * [13-print_float](../0x03-shell_variables_expansions/13-print_float)
 
 ***
-
-* [](../0x03-shell_variables_expansions/)
+Write a script that converts a number from base 10 to base 16.
+* The number in base 10 is stored in the environment variable `DECIMAL`.
+* The script should display the number in base 16, followed by a new line.
+* [14-decimal_to_hexadecimal](../0x03-shell_variables_expansions/14-decimal_to_hexadecimal)
