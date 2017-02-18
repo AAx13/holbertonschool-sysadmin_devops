@@ -73,8 +73,13 @@ Script that converts a number from base 2 to base 10.
 * [11-binary_to_decimal](../0x03-shell_variables_expansions/11-binary_to_decimal)
 
 ***
-
-* [](../0x03-shell_variables_expansions/)
+Script that prints all possible combinations of two letters, except `oo`.
+* Letters are lower cases, from `a` to `z`.
+* One combinaison per line.
+* The output should be alpha ordered, starting with `aa`.
+* Do not print `oo`.
+* Your script file should contain maximum 64 characters.
+* [12-combinations](../0x03-shell_variables_expansions/12-combinations)
 
 ***
 
