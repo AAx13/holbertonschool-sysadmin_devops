@@ -52,8 +52,8 @@ Script that creates a new global variable.
 * [7-create_global_variable](../0x03-shell_variables_expansions/7-create_global_variable)
 
 ***
-
-* [](../0x03-shell_variables_expansions/)
+Script that prints the result of the addition of 128 with the value stored in the environment variable `TRUEKNOWLEDGE`, followed by a new line.
+* [8-true_knowledge](../0x03-shell_variables_expansions/8-true_knowledge)
 
 ***
 
