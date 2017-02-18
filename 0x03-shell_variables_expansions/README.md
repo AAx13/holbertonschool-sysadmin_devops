@@ -82,8 +82,9 @@ Script that prints all possible combinations of two letters, except `oo`.
 * [12-combinations](../0x03-shell_variables_expansions/12-combinations)
 
 ***
-
-* [](../0x03-shell_variables_expansions/)
+Script that prints a number with two decimal places.
+* The number will be stored in the environment variable `NUM`.
+* [13-print_float](../0x03-shell_variables_expansions/13-print_float)
 
 ***
 
