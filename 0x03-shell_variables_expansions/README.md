@@ -46,8 +46,10 @@ Script that creates a new local variable.
 * [6-create_local_variable](../0x03-shell_variables_expansions/6-create_local_variable)
 
 ***
-
-* [](../0x03-shell_variables_expansions/)
+Script that creates a new global variable.
+* Name: `HOLBERTON`
+* Value: `Betty`
+* [7-create_global_variable](../0x03-shell_variables_expansions/7-create_global_variable)
 
 ***
 
