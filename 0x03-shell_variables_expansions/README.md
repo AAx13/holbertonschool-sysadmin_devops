@@ -8,7 +8,7 @@
 * All your files should end with a new line.
 * The first line of all your files should be exactly #!/bin/bash.
 * A README.md file, at the root of the folder of the project,
-  decribing what each script is doing.
+  describing what each script is doing.
 * You are not allowed to use &&, || or ;
 * You are not allowed to use bc, sed or awk.
 * All your files must be executable.
@@ -75,7 +75,7 @@ Script that converts a number from base 2 to base 10.
 ***
 Script that prints all possible combinations of two letters, except `oo`.
 * Letters are lower cases, from `a` to `z`.
-* One combinaison per line.
+* One combination per line.
 * The output should be alpha ordered, starting with `aa`.
 * Do not print `oo`.
 * Your script file should contain maximum 64 characters.
