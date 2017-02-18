@@ -14,7 +14,7 @@
 * All your files must be executable.
 
 ## Scripts
-Script that creates an alias.``
+Script that creates an alias.
 * Name: `ls`
 * Value `rm *`
 * [0-alias](../0x03-shell_variables_expansions/0-alias)
@@ -24,53 +24,53 @@ Script that prints `hello user`, where user is the current Linux user.
 * [1-hello_you](../0x03-shell_variables_expansions/1-hello_you)
 
 ***
-
-* [](../0x03-shell_variables_expansions)
-
-***
-
-* [](../0x03-shell_variables_expansions)
+Add `/action` to the `PATH`. `/action` should be the last directory the shell looks into when looking for a program.
+* [2-path](../0x03-shell_variables_expansions/2-path)
 
 ***
 
-* [](../0x03-shell_variables_expansions)
+* [](../0x03-shell_variables_expansions/)
 
 ***
 
-* [](../0x03-shell_variables_expansions)
+* [](../0x03-shell_variables_expansions/)
 
 ***
 
-* [](../0x03-shell_variables_expansions)
+* [](../0x03-shell_variables_expansions/)
 
 ***
 
-* [](../0x03-shell_variables_expansions)
+* [](../0x03-shell_variables_expansions/)
 
 ***
 
-* [](../0x03-shell_variables_expansions)
+* [](../0x03-shell_variables_expansions/)
 
 ***
 
-* [](../0x03-shell_variables_expansions)
+* [](../0x03-shell_variables_expansions/)
 
 ***
 
-* [](../0x03-shell_variables_expansions)
+* [](../0x03-shell_variables_expansions/)
 
 ***
 
-* [](../0x03-shell_variables_expansions)
+* [](../0x03-shell_variables_expansions/)
 
 ***
 
-* [](../0x03-shell_variables_expansions)
+* [](../0x03-shell_variables_expansions/)
 
 ***
 
-* [](../0x03-shell_variables_expansions)
+* [](../0x03-shell_variables_expansions/)
 
 ***
 
-* [](../0x03-shell_variables_expansions)
+* [](../0x03-shell_variables_expansions/)
+
+***
+
+* [](../0x03-shell_variables_expansions/)
