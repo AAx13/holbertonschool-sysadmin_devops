@@ -40,8 +40,10 @@ Create a script that lists all local variables and environment variables, and fu
 * [5-local_variables](../0x03-shell_variables_expansions/5-local_variables)
 
 ***
-
-* [](../0x03-shell_variables_expansions/)
+Script that creates a new local variable.
+* Name: `BETTY`
+* Value: `Holberton`
+* [6-create_local_variable](../0x03-shell_variables_expansions/6-create_local_variable)
 
 ***
 
