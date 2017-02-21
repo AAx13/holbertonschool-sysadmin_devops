@@ -95,9 +95,3 @@ Script that converts a number from base 10 to base 16.
 ***
 Script that encodes and decodes text using the rot13 encryption.
 * [100-rot13](../0x03-shell_variables_expansions/100-rot13)
-
-***
-* [](../0x03-shell_variables_expansions/)
-
-***
-* [](../0x03-shell_variables_expansions/)
