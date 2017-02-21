@@ -91,3 +91,13 @@ Script that converts a number from base 10 to base 16.
 * The number in base 10 is stored in the environment variable `DECIMAL`.
 * The script should display the number in base 16, followed by a new line.
 * [14-decimal_to_hexadecimal](../0x03-shell_variables_expansions/14-decimal_to_hexadecimal)
+
+***
+Script that encodes and decodes text using the rot13 encryption.
+* [100-rot13](../0x03-shell_variables_expansions/100-rot13)
+
+***
+* [](../0x03-shell_variables_expansions/)
+
+***
+* [](../0x03-shell_variables_expansions/)
